@@ -1,0 +1,2 @@
+source ../tech/magic/.magicrc
+addpath ../design/IZK_TSA_SKY130A
